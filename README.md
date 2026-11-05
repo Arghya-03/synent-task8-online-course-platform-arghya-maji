@@ -196,7 +196,9 @@ SkillNest uses Razorpay Test Mode for payment testing.
 
 ## Demonstration Video
 
-The project demonstration video will be linked here after recording.
+Watch the complete SkillNest project demonstration:
+
+[▶ Watch SkillNest – Internship Project Demo](c:\Users\HP\Desktop\SkillNest_Internship_Demo_Arghya_Maji_2026.mp4.mp4)
 
 ## Security Notes
 
